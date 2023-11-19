@@ -49,6 +49,10 @@ body {
   font-family: var(--body-font);
   font-size: var(--normal-font-size);
   color: var(--second-color);
+  background-image: url('/assets/img/background.jpg');
+  background-size: contain ;
+  background-position: top;
+  background-repeat: no-repeat;
 }
 
 h1, h2, p {
@@ -72,6 +76,7 @@ img {
 }
 
 /*===== CLASS CSS ===== */
+
 .section-title {
   position: relative;
   font-size: var(--h2-font-size);
@@ -201,10 +206,14 @@ img {
 .home__title {
   font-size: var(--big-font-size);
   margin-bottom: var(--mb-5);
+  color: #0000FF;
+  text-shadow: 0 0 2px #00FFFF, 0 0 5px #00FFFF, 0 0 10px #00FFFF;
 }
 
 .home__title-color {
-  color: var(--first-color);
+  font-family:Verdana, Geneva, Tahoma, sans-serif; 
+  color: #00FFFF;
+  text-shadow: 0 0 10px #0000FF, 0 0 20px #0000FF, 0 0 30px #0000FF;
 }
 
 .home__social {
