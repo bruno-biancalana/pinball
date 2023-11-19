@@ -143,6 +143,10 @@ img {
   }
 }
 
+.home__img{
+  margin-bottom: 100px !important;
+}
+
 .nav__item {
   margin-bottom: var(--mb-4);
 }
