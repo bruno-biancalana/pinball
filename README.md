@@ -12,3 +12,4 @@
 <p align="center">
   :point_down: Template para loja de pinball :point_down:
  </p>
+ <p>Deploy: https://dm9.netlify.app </p>
