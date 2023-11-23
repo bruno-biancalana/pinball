@@ -1,7 +1,7 @@
-# <h1 align="center"> :open_file_folder: Meu portifólio :open_file_folder: </h1>
+# <h1 align="center"> :open_file_folder: Pinball :open_file_folder: </h1>
 <p align="center">
  <img src="https://img.shields.io/badge/Status-Em desenvolvimento-tellow"/>
- <img src="https://img.shields.io/badge/Inicio-Jun2021-blue"/>
+ <img src="https://img.shields.io/badge/Inicio-nov2023-blue"/>
 </p>
 <p align="center">
  <img src="https://img.shields.io/badge/Html-red"/>
@@ -10,9 +10,6 @@
  <img src="https://img.shields.io/badge/Scss-blue"/>
 </p>
 <p align="center">
-  :point_down: Meu portifólio! :point_down:
+  :point_down: Template para loja de pinball :point_down:
  </p>
- <p >
-  <img src="/assets/img/Git_print.jpg" alt="Print"/>
-  based on: https://www.youtube.com/watch?v=AKNvTxWOdKw&t=18s
- </p>
+ <p>Deploy: https://dm9.netlify.app </p>
