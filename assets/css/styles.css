@@ -430,6 +430,10 @@ img {
     margin-bottom: 100px;
   }
 
+  .home__title{
+    margin-top: 20px;
+  }
+
 }
 
 @media screen and (min-width: 576px) {
